@@ -1,0 +1,13 @@
+# initialize git repository
+git init
+# add files
+git add .
+
+# commit changes
+git commit -m "First commit for all files"
+# View files
+git log
+# view status of files
+git status
+
+

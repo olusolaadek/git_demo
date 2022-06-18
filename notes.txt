@@ -9,5 +9,7 @@ git commit -m "First commit for all files"
 git log
 # view status of files
 git status
-
-
+# View differences between files 
+git diff [commit1 id part] [commit2 id part] 
+# revert changes to previous commit
+git checkout [37141339fed289]
